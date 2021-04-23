@@ -1,0 +1,29 @@
+{
+  "name": "read-directory-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssefSamih/read-directory-info-node.git"
+  },
+  "author": "youssef samih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youssefSamih/read-directory-info-node/issues"
+  },
+  "homepage": "https://github.com/youssefSamih/read-directory-info-node#readme",
+  "dependencies": {
+    "apollo-client": "^2.6.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
