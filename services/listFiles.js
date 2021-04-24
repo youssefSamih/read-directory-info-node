@@ -5,6 +5,7 @@ const fs = require('fs');
 
 const listFiles = ({ path = '' }) => {
   //passsing directoryPath and callback function
+  console.log(__dirname);
   const fullPath = path.slice(0, -1)
   return fs.readdirSync(path).map(file => {
     return {

@@ -1,4 +1,5 @@
 # Getting Started
+![Screenshot](screen.png)
 
 the stack i wroked with:
 
@@ -18,3 +19,6 @@ Open [http://localhost:5000/graphql](http://localhost:5000/graphql) in postman.
 ### `npm run dev`
 
 run backend in dev mode you can test it on graphqli playground Open [http://localhost:5000/graphql](http://localhost:5000/graphql) in browser.
+
+## Docker link
+[shared docker link](https://hub.docker.com/repository/docker/youssefsamih/read-directory-info)
